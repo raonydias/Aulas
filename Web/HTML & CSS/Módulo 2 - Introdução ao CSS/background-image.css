@@ -1,0 +1,17 @@
+div {
+  background-image: url("hero-background.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+}
+
+div h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+div p {
+  font-size: 24px;
+}
