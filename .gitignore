@@ -2,4 +2,6 @@
 /.vscode
 /aula.py
 /aula.txt
-/my_courses.ipynb
+/*.ipynb
+/*.pdf
+/Lógica
