@@ -2,5 +2,5 @@
 /.vscode
 /aula.py
 /aula.txt
-/*.ipynb
-/*.pdf
+*.ipynb
+*.pdf
